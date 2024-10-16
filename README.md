@@ -1,5 +1,7 @@
 # CIFAR-10 Image Classification with ResNet Model
 
+![Demo of the project](demo.gif)
+
 This project involves building a deep learning model based on the ResNet architecture to classify images from the CIFAR-10 dataset.
 
 ## Key Features
